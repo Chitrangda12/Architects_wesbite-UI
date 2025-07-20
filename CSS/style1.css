@@ -78,7 +78,7 @@ h1{font-size: 64px;color: #333333;font-weight: 700;line-height: 1.1;}
   .footer_section .col-md-3 { width: 100%; margin-bottom: 20px; }
   .overlay h3 { font-size: 24px; }
   .overlay-btn { font-size: 14px; }
-  .gallery_section h2, .gallery_section h1, .project_section h2, .project_section h1, .certificate_section h2, .certificate_section h1, .contacts_section h2, .contacts_section h1, .parking_section h2, .parking_section h1 { font-size: 1.5rem; text-align: center; }
+  /*.gallery_section h2, .gallery_section h1, .project_section h2, .project_section h1, .certificate_section h2, .certificate_section h1, .contacts_section h2, .contacts_section h1, .parking_section h2, .parking_section h1 { font-size: 1.5rem; text-align: center; }
   .about_project, .img-caption { font-size: 1rem; text-align: center; }
   .project_btn, .read_btn { display: block; margin: 16px auto 0; }
   .gallery_section .col, .project_section .col-md-6, .certificate_section .col-md-4, .contacts_section .col-md-6, .parking_section .col-md-4, .parking_section .col-md-8 { flex: 0 0 100%; max-width: 100%; text-align: center; }
@@ -99,7 +99,7 @@ h1{font-size: 64px;color: #333333;font-weight: 700;line-height: 1.1;}
   .footer_section .col-md-3 .d-flex {justify-content: center !important;margin-left: 0 !important;}
   .project_carousel{justify-content: center !important;margin-bottom: 10px;}
 
-  .read_btn, .btn_contact, .submit_btn, .form_btn, .thankyou_btn, .view_btn{ width: 100%; max-width: 300px; font-size: 15px; }
+  .read_btn, .btn_contact, .submit_btn, .form_btn, .thankyou_btn, .view_btn{ width: 100%; max-width: 300px; font-size: 15px; }*/
 }
 
 @media (max-width: 576px) {
