@@ -68,7 +68,7 @@ h1{font-size: 64px;color: #333333;font-weight: 700;line-height: 1.1;}
   .heading_project{ font-size: 24px; }
 }
 
-@media (max-width: 768px) {
+@media (min-width:577px) and (max-width: 768px) {
   h1, h2, .heading_project{ font-size: 45px !important;text-align: center !important;}
   .heading_portion, .project_carousel { left: 0; bottom: 0; position: static; text-align: center; }
   .look_btn { left: 0; bottom: 0; margin-top: 15px; }
